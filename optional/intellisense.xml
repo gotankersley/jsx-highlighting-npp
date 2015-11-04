@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<NotepadPlus>
+	<AutoComplete>
+		<KeyWord name="array" />		
+		<KeyWord name="class" />
+		<KeyWord name="component" />
+		<KeyWord name="const" />
+		<KeyWord name="default" />
+		<KeyWord name="document" />
+		<KeyWord name="export" />
+		<KeyWord name="function" />
+		<KeyWord name="getElementById" />			
+		<KeyWord name="isset" />
+		<KeyWord name="import" />
+		<KeyWord name="prototype" />
+		<KeyWord name="react" />
+		<KeyWord name="render" />
+		<KeyWord name="super" />
+		<KeyWord name="this" />
+		<KeyWord name="typeof" />
+		<KeyWord name="undefined" />
+	</AutoComplete>
+</NotepadPlus>
